@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vanilla Bean",
+      "description": "Medium Roast, nutty flavor",
+      "origin": "Colombia",
+      "roast": "Medium",
+      "price": 10.0
+    },
+    {
+      "id": 2,
+      "name": "House Blend",
+      "description": "Dark Roast, rich flavor",
+      "origin": "Vietnam",
+      "roast": "Dark",
+      "price": 12.0
+    }
+  ]
+}
