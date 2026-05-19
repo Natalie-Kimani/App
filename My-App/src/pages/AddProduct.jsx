@@ -117,6 +117,5 @@ const styles = {
     cursor: 'pointer',
   },
 }
-
 export { AddProduct }
 export default AddProduct
