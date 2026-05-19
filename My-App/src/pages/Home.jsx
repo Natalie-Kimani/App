@@ -1,10 +1,10 @@
 function Home() {
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>☕ Coffee R Us Admin Portal</h1>
+      <h1 style={styles.title}>☕ Coffee Cafe </h1>
 
       <p style={styles.paragraph}>
-        Welcome to the Coffee R Us administrator dashboard — your central hub for
+        Welcome to the Coffee Cafe dashboard — your central hub for
         managing everything related to our coffee inventory and product catalog.
       </p>
 
